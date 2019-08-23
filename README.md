@@ -1,2 +1,2 @@
 # AppFloaterAndroid
-![misssing](screensshot/sample.gif)
+![misssing](screenshot/sample.gif)
